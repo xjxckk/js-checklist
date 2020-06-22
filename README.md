@@ -6,7 +6,7 @@ A to do list created with JS and local storage
 ### Code
 
 
-`html
+```html
 <html>
   <head>
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto Condensed'>
@@ -24,4 +24,4 @@ A to do list created with JS and local storage
     </script>
   </body>>
 </html>
-`
+```
