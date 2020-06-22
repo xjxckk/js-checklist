@@ -5,7 +5,6 @@ A to do list created with JS and local storage
 
 ### Code
 
-
 ```html
 <html>
   <head>
